@@ -1,15 +1,15 @@
 .carousel-item {
-  width: 700px;
+  width: 800px;
   height: 500px;
   transition: 1.5s;
 }
 
 .carousel {
-  width: 700px;
+  width: 800px;
   height: 500px;
 }
 img {
-  width: 700px;
+  width: 800px;
   height: 500px;
   opacity: 0.9;
   border-radius: 30px;
