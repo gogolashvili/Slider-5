@@ -1,0 +1,26 @@
+.carousel-item {
+  width: 700px;
+  height: 500px;
+}
+
+.carousel {
+  width: 700px;
+  height: 500px;
+}
+img {
+  width: 700px;
+  height: 500px;
+  opacity: 0.9;
+  border-radius: 30px;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  background-image: url("./b.avif");
+  background-size: cover;
+  background-position: center;
+}
