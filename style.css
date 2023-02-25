@@ -1,6 +1,7 @@
 .carousel-item {
   width: 700px;
   height: 500px;
+  transition: 1.5s;
 }
 
 .carousel {
@@ -20,7 +21,7 @@ body {
   justify-content: center;
   align-items: center;
   align-content: center;
-  background-image: url("./b.avif");
+  background-image: url("./photo/b.avif");
   background-size: cover;
   background-position: center;
 }
